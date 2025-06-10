@@ -1,4 +1,4 @@
-# Jirah-101-For-Beginners(PMs Only)
+# Jirah-101-For-Beginners(Project Managers Only)
 How to use Jirah as a Beginners
 1. Understand Jira Basics
 Jira is a powerful tool to track tasks, bugs, and projects. It helps you organize work into issues (tasks) inside projects.
